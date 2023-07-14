@@ -1,0 +1,5 @@
+.\env\myshop\Scripts\activate
+
+cd myshop/
+
+python manage.py runserver
